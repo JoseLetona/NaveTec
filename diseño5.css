@@ -1,0 +1,46 @@
+Body {width: 1200px; height: auto; margin: auto; background-image: url(descarga.jpg);}
+section {width: 1200px; height: auto; margin: auto; background-color: #ADFDFF;}
+
+nav {width: 1200px; height: 65px;  margin: auto;font-size: 20px;
+ background-image: url(9_seguridad-y-cc.jpg); color: #FFFFFF}
+
+
+ #titulo {font-size: 40px; font-style: oblique;}
+ #p {color:#033BFB}
+  p {text-align: justify;width: 930px; margin: 20px; height: auto;font-size: 18px;}
+  h1 {font-size: 30px; width: 930px auto; margin: 12px auto; height: auto; font-style: italic; text-align: center;}
+ h2 {width: 800px; height: auto; text-align: justify; margin: 12px auto; color: white}
+#hs {text-align: center; color: black; font-style: oblique; font-size: 30px}
+#hd {color: black; font-style: italic; font-size: 26px}
+
+  img {width: 250px; text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+#menu { background-color: #0000
+         }
+ Ul {list-style: none;
+         Margin:0px;
+         padding: 0px;}
+
+#menu Ul  {display: inline-block;
+            padding: 10px 50px;}
+#menu ul  a{color: white;
+              padding:1080px
+            Text-decoration: none;}
+#menu ul  a:hover{background-color: #42BB81;}
+
+
+#product {width: 1080px; height: 500px}
+
+
+     footer{
+       font-size: 20px;
+       color: white;
+       margin: 15px auto;
+       text-align: center;
+       height: auto;
+
+     }
+     img {width: 300px; height: 140px}

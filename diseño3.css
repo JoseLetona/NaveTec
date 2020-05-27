@@ -1,0 +1,63 @@
+Body {width: 1200px; height: auto; margin: auto; background-image: url(descarga.jpg);}
+section {width: 1200px; height: auto; margin:auto;; background-color: #ADFDFF;}
+
+nav {width: 1200px; height: 65px;  margin: auto;font-size: 20px;
+ background-image: url(9_seguridad-y-cc.jpg); color: #FFFFFF}
+
+
+ #titulo {font-size: 40px; font-style: oblique;}
+
+  p {text-align: justify; margin: 20px auto;width: 930px;  height: auto;font-size: 18px;}
+  h1 {font-size: 30px; width: 697px; margin:auto; height: auto;}
+
+
+#menu { background-color: #0000
+         }
+ Ul {list-style: none;
+         Margin:0px;
+         padding: 0px;}
+
+#menu Ul  {display: inline-block;
+            padding: 10px 50px;}
+#menu ul  a{color: white ;
+              padding:1080px
+            Text-decoration: none;}
+#menu ul  a:hover{background-color: #42BB81;}
+
+.banner {width: 1200px;
+              height: 400px;
+             border: 3px solid ;
+              background-size: 100% 100%;
+               animation: banner 10s infinite;}
+
+     @keyframes banner {
+        0%, 30% {background-image: url(slider1.jpg); opacity: 7}
+        31%, 34% {opacity: 0.4}
+        35%, 65%{ background-image: url(accesorios-para-pc.jpg); opacity: 7}
+        66%, 69% {opacity: 0.4}
+        70%, 100% {background-image: url(Componentes.jpg); opacity: 7}
+
+     }
+img {width: 260px; height: 200px; margin: 55px}
+
+.products-list {
+  width: 99%;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+
+}
+
+.Category-list { font-size: 20px; margin: auto; }
+
+
+footer{
+  font-size: 20px ;
+  color: white;
+  margin: auto ;
+  text-align: center;
+
+}
+#po  {width: 300px; height: 140px; margin: auto;}
+
+#Productoss {font-size: 30px; font-style: oblique; text-align: center;}
